@@ -1,1 +1,1 @@
-"# OutlookSafetyChex" 
+# OutlookSafetyChex
