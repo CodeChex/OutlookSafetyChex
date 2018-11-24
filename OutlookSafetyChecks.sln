@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlookSafetyChex", "OutlookSafetyChecks\OutlookSafetyChex.csproj", "{863D8CD6-7B5D-4D08-BF2C-8CAACDE5F546}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{863D8CD6-7B5D-4D08-BF2C-8CAACDE5F546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{863D8CD6-7B5D-4D08-BF2C-8CAACDE5F546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{863D8CD6-7B5D-4D08-BF2C-8CAACDE5F546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{863D8CD6-7B5D-4D08-BF2C-8CAACDE5F546}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61B8C5E7-626A-4535-9FF6-7EE7025ED650}
+	EndGlobalSection
+EndGlobal
